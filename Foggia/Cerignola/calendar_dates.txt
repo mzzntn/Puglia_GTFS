@@ -1,0 +1,7 @@
+date,exception_type,service_id
+20191231,1,Festivo
+20191226,1,Festivo
+20191225,1,Festivo
+20191104,1,Festivo
+20191102,1,Festivo
+20191101,1,Festivo

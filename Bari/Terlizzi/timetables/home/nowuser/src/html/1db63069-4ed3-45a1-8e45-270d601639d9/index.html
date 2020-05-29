@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/timetable_styles.css">
+  <meta name="viewport" content="initial-scale=1.0, width=device-width">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js"></script>
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoibXp6bnRuIiwiYSI6ImNqenpnMGM2ajE0a3MzbG8xMjV6ZjBuYzgifQ.80nc_zq59i5m2crvztv0Yw';
+  </script>
+  <script src="js/timetable-map.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row mt-4 mb-2">
+      <div class="col-md-12">
+        <h1 class="overview-label">Società Trasporti Provinciale SPA Routes</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="list-group overview-list"><a class="list-group-item" href="timetables/r_11111110undefined_linea-1_lun-sab.html" data-route-ids="R_1">
+            <h4 class="list-group-item-heading"><span>Route Linea 1 - Sovereto - Frazione - Partenza to Sovereto Frazione - Arrivo</span></h4>
+            <div class="list-group-item-text">Lun-Sab</div>
+          </a></div>
+      </div>
+      <div class="col-md-9">
+        <div class="map" id="system_map"></div>
+      </div>
+      <script>
+        (function() {
+          var geojson = {
+            "type": "FeatureCollection",
+            "features": []
+          };
+          createSystemMap('system_map', geojson);
+        })();
+      </script>
+    </div>
+  </div>
+</body>
+
+</html>

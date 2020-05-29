@@ -1,0 +1,10 @@
+Feed Version: Unknown
+GTFS-to-HTML Version: 0.18.3
+Date Generated: Wed May 27 2020 22:31:07 GMT+0000 (UTC)
+Timetable Page Count: 1
+Timetable Count: 1
+Calendar Service ID Count: 1
+Route Count: 1
+Trip Count: 6
+Stop Count: 44
+Source: /tmp/tmp-96ROBNQJxemhYU/1db63069-4ed3-45a1-8e45-270d601639d9-gtfs.zip

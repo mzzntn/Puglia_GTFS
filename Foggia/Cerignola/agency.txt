@@ -1,0 +1,2 @@
+agency_fare_url,agency_id,agency_lang,agency_name,agency_phone,agency_timezone,agency_url
+https://www.busmiccolis.it/wp-content/uploads/2019/04/cerignola_tariffe.pdf,S.T.C.,it,Società Trasporto Cerignola,(+39)0885410201,Europe/Rome,http://www.comune.cerignola.fg.it

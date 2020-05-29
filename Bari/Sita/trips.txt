@@ -1,0 +1,8 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+sita-r-1,sita-c-1,sita-t-1,"Santeramo","Santeramo - Gioia",0,,,,
+sita-r-1,sita-c-2,sita-t-2,"Santeramo","Santeramo - Gioia",0,,,,
+sita-r-1,sita-c-3,sita-t-3,"Santeramo","Santeramo - Gioia",0,,,,
+sita-r-1,sita-c-4,sita-t-4,"Santeramo","Santeramo - Gioia",0,,,,
+sita-r-1,sita-c-5,sita-t-5,"Gioia","Gioia - Santeramo",0,,,,
+sita-r-1,sita-c-1,sita-t-6,"Gioia","Gioia - Santeramo",0,,,,
+sita-r-1,sita-c-3,sita-t-7,"Gioia","Gioia - Santeramo",0,,,,

@@ -1,0 +1,7 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,,"Via S.Pio da Pietralcina",,40.7950539,16.9259085,,,,,,
+2,,"Via Giulio Pastore","Via per Acquaviva",40.806005,16.921724,,,,,,
+3,,"Via Federico II di Svevia","Hotel Villa Duse",40.794452,16.925439,,,,,,
+4,,"Via Federico II di Svevia","Chiesa S.Vito",40.80199,16.926824,,,,,,
+5,,"Via Monte Schiavo",,40.8932369,16.8368969,,,,,,
+6,,"Ospedale Miulli",,40.8620746,16.7992147,,,,,,

@@ -1,0 +1,5 @@
+currency_type,fare_id,payment_method,price,transfer_duration,transfers
+EUR,MensileZI,1,20,,
+EUR,Giornaliero,1,0.9,,1
+EUR,Giornalieroabordo,0,1.1,,1
+EUR,Mensile,1,39,2629800,

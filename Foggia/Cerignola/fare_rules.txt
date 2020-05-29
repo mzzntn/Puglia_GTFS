@@ -1,0 +1,2 @@
+destination_id,fare_id,origin_id,route_id
+,MensileZI,,Arancione

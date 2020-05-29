@@ -1,0 +1,10 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,include_exceptions,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,show_trip_continuation
+T1,Marrone,,,,1,1,1,1,1,1,0,0,LINEA 6 - Borgo Moschella e Borgo Libertà - Circolare,,,,,,
+T2,Viola,,,,1,1,1,1,1,1,0,0,LINEA 5 - Borgo Tressanti - Circolare,,,,,,
+T3,Arancione,,,,0,0,0,0,0,0,1,0,LINEA 4 - Zona Industiale e Stazione F.S.,,,,,,
+T4,Arancione,,,,1,1,1,1,1,1,0,0,LINEA 4 - Zona Industiale e Stazione F.S.,,,,,,
+T5,Verde,,,,1,1,1,1,1,1,0,0,LINEA 3 - Circolare,,,,,,
+T6,Blu,0,,,1,1,1,1,1,1,0,0,LINEA 2 - Direzione Via B. Croce,,,,,,
+T7,Blu,1,,,1,1,1,1,1,1,0,0,LINEA 2 - Direzione Via Urbe,,,,,,
+T8,Rossa,0,,,1,1,1,1,1,1,0,0,LINEA 1 - Direzione Ospedale,,,,,,
+T9,Rossa,1,,,1,1,1,1,1,1,0,0,LINEA 1 - Direzione Piazza Della Libertà,,,,,,
