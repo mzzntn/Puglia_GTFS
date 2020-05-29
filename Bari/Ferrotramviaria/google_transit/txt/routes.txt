@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,FNB,FR1,Bari Barletta,Linea Regionale Bari-Barletta,2,,009AD6,
+2,FNB,FM1,Bari Quartire San Paolo,Linea Metropolitana Bari-Quartiere San Paolo,1,,E93130,
+3,FNB,FM2,Bari Aeroporto Karol Wojtyla Bitonto,Linea Metropolitana Bari-Aeroporto-Bitonto,1,,F8BA1F,
+4,FNB,FR2,Bari Barletta via Aeroporto,Linea Regionale Bari-Barletta via Aeroporto,2,,939598,
+8,FNB,BB,Bus Bari-Barletta,Autocorse sostitutive del servizio ferroviario,3,,FFFF00,

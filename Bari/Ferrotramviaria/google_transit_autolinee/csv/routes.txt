@@ -1,0 +1,9 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+100,FNB,,BARI - BARLETTA,,3,,,
+101,FNB,,BARLETTA - BARI,,3,,,
+200,FNB,,SERVIZIO SOSTITUTIVO BITONTO - BARLETTA,,3,,,
+201,FNB,,SERVIZIO SOSTITUTIVO BARLETTA - BITONTO,,3,,,
+400,FNB,,CORSE SCOLASTICHE PARI,,3,,,
+401,FNB,,CORSE SCOLASTICHE DISPARI,,3,,,
+500,FNB,,BARI SUD - BITONTO,,3,,,
+501,FNB,,BITONTO - BARI SUD,,3,,,
