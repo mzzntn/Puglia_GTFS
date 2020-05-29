@@ -1,3 +1,0 @@
-end_date,friday,monday,saturday,service_id,start_date,sunday,thursday,tuesday,wednesday
-20290901,1,1,1,Feriale,20190901,0,1,1,1
-20290901,0,0,0,Festivo,20190901,1,0,0,0

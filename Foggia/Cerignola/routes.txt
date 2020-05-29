@@ -1,7 +1,0 @@
-agency_id,route_color,route_id,route_long_name,route_short_name,route_text_color,route_type
-S.T.C.,AB8850,Marrone,Borgo Moschella e Borgo Libertà,6,,3
-S.T.C.,A84E98,Viola,Borgo Tressanti,5,ffffff,3
-S.T.C.,F29100,Arancione,Zona Industriale e Stazione F.S.,4,,3
-S.T.C.,63B32E,Verde,Linea 3,3,,3
-S.T.C.,009FE3,Blu,Linea 2,2,ffffff,3
-S.T.C.,E51C22,Rossa,Linea 1,1,,3

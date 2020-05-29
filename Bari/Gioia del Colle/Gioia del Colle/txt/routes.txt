@@ -1,4 +1,0 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-1,gdc,"A","Circolare A",,3,http://egov.comune.gioiadelcolle.ba.it/servizio-bus/,,
-2,gdc,"B","Circolare B",,3,http://egov.comune.gioiadelcolle.ba.it/servizio-bus/,,
-3,gdc,"C","Linea Castello-Parco Monte Sannace",,3,http://egov.comune.gioiadelcolle.ba.it/servizio-bus/,,

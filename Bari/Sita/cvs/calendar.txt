@@ -1,6 +1,0 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-sita-c-1,1,1,1,1,1,0,0,20180701,20180831
-sita-c-2,1,1,1,1,1,0,0,20170901,20180930
-sita-c-3,1,1,1,1,1,1,0,20170901,20180615
-sita-c-4,1,1,1,1,1,1,0,20170615,20180910
-sita-c-5,1,1,1,1,1,0,0,20170901,20181231

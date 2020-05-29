@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone
-gdc,"Comune di Gioia del Colle",http://www.comune.gioiadelcolle.ba.it,Europe/Rome
