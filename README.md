@@ -6,8 +6,9 @@ La tabella sotto riportata mostra le aziende che forniscono i loro dati in opens
 
 | Provincia |                                             Comune                                            |                 Società TPL                |  Formato | Validità |
 |:---------:|:---------------------------------------------------------------------------------------------:|:------------------------------------------:|:--------:|:--------:|
-|    Bari   |                        [Bari](https://www.ferrovienordbarese.it/orari)                        |            Ferrotramviaria S.p.A           |   GTFS   |          |
+|    Bari   |                        [Bari](https://www.ferrovienordbarese.it/orari)                        |            Ferrotramviaria S.p.A           |   GTFS   |   2020   |
 |    Bari   |               [Terlizzi](https://dati.comune.terlizzi.ba.it/dataset/fermate-tpl)              |                                            | CSV, XLS |   2017   |
+|    Bari   |                           [Altamura](http://www.marinobusurbano.it)                           |        Autolinee Marino Michele Srl        | KML, KMZ |          |
 |    Bari   |                [Gioia del Colle](https://old.datahub.io/dataset/openbus-gioia)                |                                            |   GTFS   |   2017   |
 |  Brindisi |    [Brindisi Urbano](http://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio)   | SOCIETÀ TRASPORTI PUBBLICI BRINDISI S.P.A. |   GTFS   |   2020   |
 |  Brindisi | [Brindisi Extraurbano](http://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio) | SOCIETÀ TRASPORTI PUBBLICI BRINDISI S.P.A. |   GTFS   |   2020   |
