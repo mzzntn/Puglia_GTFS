@@ -1,12 +1,14 @@
 # GTFS_Puglia
 
+Il seguente progetto si pone come obiettivo ultimo la raccolta e la diffusione dei link ai relativi archivi GTFS della regione Puglia
+
 ## Lecce
 
 Lecce: http://dati.comune.lecce.it/dataset/trasporto-pubblico-locale
 
 ## Bari
 
-Ferromtranviaria: https://www.ferrovienordbarese.it/orari 
+Ferromtranviaria SPA: https://www.ferrovienordbarese.it/orari 
 Terlizzi: https://dati.comune.terlizzi.ba.it/dataset/fermate-tpl 
 Gioia del Colle: https://datahub.io/dataset/289cecea-0162-4ef7-bfab-7872299defa8/resource/e2b2a650-eb84-4153-ae13-697da9c738fc/download/gtfs.zip 
 Gioia del Colle 2: https://datahub.io/dataset/289cecea-0162-4ef7-bfab-7872299defa8/resource/8e7992ee-ac03-4b09-a0a9-4a54ba367336/download/gtfs.zip 
