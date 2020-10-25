@@ -2,7 +2,7 @@
 
 Il seguente progetto si pone come obiettivo ultimo la raccolta e la diffusione dei link ai relativi archivi GTFS della regione Puglia.
 
-La tabella sotto riportata mostra le aziende che forniscono i loro dati in opensource e il relativo formato
+La tabella sotto riportata mostra le aziende che forniscono i loro dati in opendata e il relativo formato
 
 | Provincia |                                             Comune                                            |                 Società TPL                |  Formato | Validità |
 |:---------:|:---------------------------------------------------------------------------------------------:|:------------------------------------------:|:--------:|:--------:|
